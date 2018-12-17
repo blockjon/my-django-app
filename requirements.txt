@@ -8,7 +8,6 @@ pluggy==0.8.0
 py==1.7.0
 pytest==4.0.2
 pytest-django==3.4.4
-pytest-flaptastic==0.0.19
 pytz==2018.7
 scandir==1.9.0
 six==1.12.0
